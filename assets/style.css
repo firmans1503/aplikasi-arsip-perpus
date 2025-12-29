@@ -1,0 +1,10 @@
+
+body{font-family:Arial;background:#f4f6f8;margin:0}
+header{background:#0d47a1;color:white;padding:20px;text-align:center}
+nav{background:#1565c0;padding:10px;text-align:center}
+nav a{color:white;margin:10px;text-decoration:none;font-weight:bold}
+.content{padding:20px}
+input{padding:8px;width:300px}
+table{border-collapse:collapse;width:60%}
+th,td{border:1px solid #ccc;padding:8px}
+footer{text-align:center;background:#0d47a1;color:white;padding:10px;position:fixed;bottom:0;width:100%}
